@@ -1,0 +1,2 @@
+# AdvertisingManager
+Android advertising manager
