@@ -25,10 +25,6 @@ class AdvertisingManagerTest {
         advertisingManagerTest.init()
     }
 
-    @Test
-    fun isAvailableVideoPreRollTest() {
-
-    }
 
     @Test
     fun `show full screen success`(){
