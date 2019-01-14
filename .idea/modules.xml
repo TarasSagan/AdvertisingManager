@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvertisingManager.iml" filepath="$PROJECT_DIR$/AdvertisingManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/advertising/advertising.iml" filepath="$PROJECT_DIR$/advertising/advertising.iml" />
+    </modules>
+  </component>
+</project>
